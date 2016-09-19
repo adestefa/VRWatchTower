@@ -11,16 +11,19 @@ I have so many gameplay ideas I would love to explore I decided to get to work. 
 v0.1 9/19/2016
 - Simple scene for testing
 - Purchase ememy models and animations
-  - add coliders to each weapon
-  - add hit detection and health
+  - Add detection distance, movement speed and attack distance to each model
+  - add custom sphere colliders to each model's weapon
+  - add hit detection and health monitoring for each tower
+  - ability to add any number of monsters on the map
 - Tower temp model to defend
   - add healthbar and script controller
+  - ability to add any number of towers to defend
 - Simple chase AI I can reuse for each moster, assign any target, including the player.
 - Simple animation controller that supports initial states:
    - walk
    - idle
    - attack
-- Temp sound effects
+- Adding first round of simple sound effects
   - attack
   - tower destruction
   
