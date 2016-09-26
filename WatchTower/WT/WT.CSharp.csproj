@@ -69,12 +69,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Hits.cs" />
-    <Compile Include="Assets\Timer.cs" />
-    <Compile Include="Assets\chase.cs" />
-    <Compile Include="Assets\epyphany\demo\ressources\move.cs" />
-    <Compile Include="Assets\epyphany\demo\ressources\rotate.cs" />
-    <Compile Include="Assets\health.cs" />
+    <Compile Include="Assets\WT\Scripts\Hits.cs" />
+    <Compile Include="Assets\WT\Scripts\SpawnPoint.cs" />
+    <Compile Include="Assets\WT\Scripts\Timer.cs" />
+    <Compile Include="Assets\WT\Scripts\chase.cs" />
+    <Compile Include="Assets\WT\Scripts\health.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />

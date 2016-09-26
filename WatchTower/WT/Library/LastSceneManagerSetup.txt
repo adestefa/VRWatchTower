@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Plane.unity
+- path: Assets/Levels/spawn.unity
   isLoaded: 1
   isActive: 1
